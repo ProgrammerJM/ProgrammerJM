@@ -10,9 +10,8 @@
 ### 
 🌱 I’m currently learning React Framework
 
-
+###
 <img src="https://raw.githubusercontent.com/ProgrammerJM/ProgrammerJM/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
