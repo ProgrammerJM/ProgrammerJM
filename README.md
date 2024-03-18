@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer, from The Philippines</p>
+<p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer from The Philippines</p>
 
 ###
 🌱 I’m currently learning React Framework
