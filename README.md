@@ -2,13 +2,14 @@
 
 ###
 
-<p align="left">My name is John Mark Tizado and I'm a Developer, from The Philippines</p>
+<p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer, from The Philippines</p>
 
 ###
-
-🔭 I’m currently working on my Thesis Web Application Entitled "Anytime PETNESS: Development of Weight-Based Pet Feeding System for Optimal Nutrition of Domestic Feline and Canine with Data Driven Monitoring System.
-### 
 🌱 I’m currently learning React Framework
+
+### 
+🔭 My Goal is to become a Full Stack Developer
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammerJM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
