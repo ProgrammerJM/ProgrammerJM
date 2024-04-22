@@ -15,9 +15,9 @@ Tecnologies that I know
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="ProgrammerJM's Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerJM&theme=dark&hide_border=false" alt="ProgrammerJM's Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="ProgrammerJM's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="ProgrammerJM's Stats" style="display: block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerJM&theme=dark&hide_border=false" alt="ProgrammerJM's Streak" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="ProgrammerJM's Top Languages" style="display: block;">
 </div>
 
 ###
