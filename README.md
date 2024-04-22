@@ -18,15 +18,12 @@ Tecnologies that I know
 
 | ![ProgrammerJM's Stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&count_private=true) |
 |:--:|
-| *ProgrammerJM's Stats* |
 
 | ![ProgrammerJM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerJM&theme=dark&hide_border=false) |
 |:--:|
-| *ProgrammerJM's Streak* |
 
 | ![ProgrammerJM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&layout=compact) |
 |:--:|
-| *ProgrammerJM's Top Languages* |
 
 </div>
 
