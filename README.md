@@ -5,11 +5,12 @@
 <p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer from The Philippines</p>
 
 ###
-🌱 I’m currently learning React Framework
-
-### 
-🔭 My Goal is to become a Full Stack Developer
-
+Tecnologies that I know
+* ReactJS
+* NodeJS
+* Firebase
+* TailwindCSS
+  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammerJM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
