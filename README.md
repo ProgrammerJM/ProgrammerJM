@@ -9,13 +9,14 @@ Tecnologies that I know
 * ReactJS
 * NodeJS
 * Firebase
+* PostGreSQL
 * TailwindCSS
-* 
-  <div align="center" display="flex" flex-direction="column">
-![ProgrammerJM's Stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![ProgrammerJM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerJM&theme=dark&hide_border=false)
-![ProgrammerJM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&layout=compact)
-  </div>
+  
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="ProgrammerJM's Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerJM&theme=dark&hide_border=false" alt="ProgrammerJM's Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="ProgrammerJM's Top Languages">
+</div>
 
 ###
 Languages and Tools:
