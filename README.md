@@ -11,6 +11,9 @@ Tecnologies that I know
 * Firebase
 * TailwindCSS
   
+![ProgrammerJM's Stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![ProgrammerJM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerJM&theme=dark&hide_border=false)
+![ProgrammerJM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJM&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammerJM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
