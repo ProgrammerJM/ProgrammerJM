@@ -9,7 +9,7 @@ Tecnologies that I know
 * ReactJS
 * NodeJS / ExpressJS
 * Firebase
-* PostGreSQL
+* PostgreSQL
 * TailwindCSS
 
 ###
