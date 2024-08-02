@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is [Your Name] and I'm a Student and Aspiring Developer from The Philippines.</p>
+<p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer from The Philippines.</p>
 
 <h2>Technologies that I know</h2>
 <ul>
