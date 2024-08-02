@@ -5,11 +5,12 @@
 <p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer from The Philippines</p>
 
 ###
-Tecnologies that I know
+<h2> Tecnologies that I know </h2>
 * ReactJS
-* NodeJS / ExpressJS
-* Firebase
+* NodeJS
+* ExpressJS
 * PostgreSQL
+* Firebase
 * TailwindCSS
 
 ###
@@ -23,7 +24,7 @@ Tecnologies that I know
 ###
 
 ###
-Languages and Tools:
+<h2> Languages and Tools: </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
