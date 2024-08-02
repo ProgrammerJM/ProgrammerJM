@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey There 👋</h1>
 
 <h3 align="left">About Me: </h3>
 <p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer from The Philippines.</p>
