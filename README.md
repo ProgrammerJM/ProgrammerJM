@@ -30,7 +30,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;" alt="Express logo" />
+  <div style="background-color: #ffffff; padding: 5px; display: inline-block; border-radius: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
+  </div>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   <img width="12" />
