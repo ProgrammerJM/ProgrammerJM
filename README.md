@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA Logo"/>
 </div>
 
-<a href="https://visitcount.itsvg.in" style="margin-top: 20px;">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ProgrammerJM&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
 
