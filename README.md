@@ -29,5 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA Logo"/>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=ProgrammerJM&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in" style="margin-top: 20px;">
+  <img src="https://visitcount.itsvg.in/api?id=ProgrammerJM&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 
