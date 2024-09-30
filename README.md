@@ -1,7 +1,7 @@
 <h1 align="left">Hey There 👋</h1>
 
 <h3 align="left">About Me: </h3>
-<p align="left">My name is John Mark Tizado and I'm a Student and Aspiring Developer from The Philippines.</p>
+<p align="left">My name is John Mark Tizado and I'm a Web Developer from The Philippines.</p>
 
 <h3 align="left">My Stats: </h3>
 <div align="center">
