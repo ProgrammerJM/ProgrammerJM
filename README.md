@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me: </h3>
 <p align="left">My name is John Mark Tizado and I'm a Web Developer from The Philippines.</p>
-<p align="left">I've graduated my Bachelors Deggree in Computer Engineering in Polytechnic University of the Philippines.</p>
+<p align="left">I've graduated my Bachelors Deggree in Computer Engineering specializing in Software Development in Polytechnic University of the Philippines (PUP).</p>
 <p align="left">I am currently working as an Associate Web Developer for Drink Editorial & Design Inc.</p>
 
 <h3 align="left">My Stats: </h3>
