@@ -32,8 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA Logo"/>
 </div>
+<br>
 
-  <div>
+
   ![](https://komarev.com/ghpvc/?username=ProgrammerJM&color=grey)
-  </div>
+
 
